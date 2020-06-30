@@ -1,0 +1,45 @@
+.dogInfoDiv{
+    top: 88px;
+    left: 258px;
+    width: 545px;
+    height: 145px;
+
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #F7ECEB 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.dogPic{
+    top: 129px;
+    left: 288px;
+    width: 64px;
+    height: 64px;
+    border: 1px solid #DDDDDD;
+    opacity: 1;
+    margin-top: 20.5px;
+    margin-left: 20.5px;
+    border-radius: 50%;
+}
+
+.dogName{
+    font-size: 18px;
+    color: #545871;
+    margin-left: 15.5px;
+}
+.dogSpan{
+    display: flex;
+    flex-wrap: wrap;
+    color: #ebd0ce;
+    margin-left: 31.5px;
+    margin-top: 16px;
+}
+
+.infoSpan{
+    color: #AAAAAA;
+    font-size: 16px;
+    margin-left: 14px;
+}

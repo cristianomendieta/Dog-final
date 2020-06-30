@@ -1,0 +1,274 @@
+.formAbout {
+    width: 64%;
+    height: 87%;
+    max-height: 1100px;
+  
+    float: left;
+  
+    background-color: #F7ECEB;
+}
+
+.title {
+    color: #545871;
+    font-size: 28px;
+
+    text-align: left;
+
+    margin-top: 58px;
+    margin-left: 132px;
+}
+
+form {
+    background-color: #F7ECEB;
+
+    margin: 80px auto;
+    padding: 64px;
+
+    border-radius: 8px;
+
+    max-width: 730px;
+    height: 550px;
+}
+
+
+
+form h1 {
+    font-size: 36px;
+}
+
+form fieldset {
+    margin-top: 15px;
+
+    border: 0;
+}
+
+form legend {
+    margin-bottom: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+}
+
+form legend h2 {
+    font-size: 24px;
+}
+
+form legend span {
+    font-size: 14px;
+    color: var(--title-color);
+}
+
+form .field {
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 24px;
+}
+
+form .field-group {
+    display: flex;
+}
+
+.nameInput{
+    width: 288px;
+    height: 50px;
+}
+
+.nameInput input {
+    width: 350px;
+    height: 50px;
+
+    background-color: #f0f0f5;
+
+    border: 0;
+    padding: 16px 24px;
+    font-size: 16px;
+
+    border-radius: 8px;
+}
+
+form input {
+    background-color: #f0f0f5;
+
+    border: 0;
+    padding: 16px 24px;
+    font-size: 16px;
+
+    border-radius: 8px;
+
+    border: 1px solid #DDDDDD;
+
+
+    /* outline: none; */
+
+}
+
+ 
+
+form select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+form label {
+    font-size: 18px;
+    margin-bottom: 8px;
+
+    color: #9597A6;
+    font-weight: 700;
+
+    
+}
+
+label .photoIcon{
+    height: 50px;
+    width: 100px;
+   
+}
+
+.icon{
+    margin-left: 20px;
+}
+
+.file-upload{
+    margin-top: 30px;
+}
+
+.file-upload input{
+    padding: 12px;
+}
+
+.photo {
+    display: flex;
+    margin-left: 12px;
+}
+
+
+
+
+
+form .field-group .field + .field {
+    margin-left: 32px;
+}
+
+
+.formAbout button{
+    width: 152px;
+    height: 56px;
+
+    border-color: #DDDDDD;
+    border-style: solid;
+    border-width: 1px;
+
+    font-size: 21px;
+
+    color: #545871;
+
+
+}
+
+.formAbout button.selected{
+    
+}
+
+form button:hover{
+    background-color: #EBD0CE;
+}
+
+.genreOptions button:focus{
+    background-color: #EBD0CE;
+}
+
+.castrated:focus{
+    background-color: #EBD0CE;
+}
+
+.weight:focus{
+    background-color: #EBD0CE;
+}
+ 
+
+.genreOptions{
+    width: 288px;
+    margin-top: 12px;
+    display: flex;
+}
+
+.castratedOptions{
+    width: 288px;
+    margin-top: 12px;
+    display: flex;
+}
+
+.weightOptions{
+    width: 608px;
+    margin-top: 12px;
+}
+
+.aboutButton{
+    height: 13%;
+    display: flex;
+
+    margin-left: 250px;
+}
+
+.cancelButton a {
+    display: block;
+    margin-top: 55px;
+    margin-left: 67px;
+
+    font-size: 19px;
+  
+    width: 160px;
+    height: 56px;
+  
+    border-radius: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #545871;
+  
+    background: #FFFFFF;
+  
+  
+    color: #545871;
+    text-decoration: none;
+  
+  }
+
+  .saveButton a {
+    display: block;
+    margin-top: 55px;
+    margin-left: 317px;
+
+    font-size: 19px;
+  
+    width: 160px;
+    height: 56px;
+  
+    border-radius: 30px;
+  
+    background: #545871;
+  
+  
+    color: #FFFFFF;
+    text-decoration: none;
+  
+  }
+  
+  .aboutButton a strong {
+    width: 72px;
+    height: 72px;
+  
+    margin-bottom: 8px;
+    margin-left: 42px;
+  
+    text-align: center;
+    line-height: 45px;
+    
+  }

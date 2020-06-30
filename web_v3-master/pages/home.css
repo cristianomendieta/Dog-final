@@ -1,0 +1,28 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+.App {
+    height: 100vh;
+  }
+
+.basic{
+  height: 100%;
+  width: 570px;
+  float: left;
+
+  
+
+}
+
+.main{
+  height: 100%;
+  width: 52%;
+  float: left;
+}

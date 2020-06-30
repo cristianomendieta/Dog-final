@@ -1,0 +1,15 @@
+.dogInfo {
+    width: 570px;
+    height: 100%;
+    
+    background-color: #F7ECEB;
+  
+display: flex;
+flex-direction: column;  
+    padding-top: 15px;
+  }
+
+  .allDogs{
+      height: 100%;
+      overflow-y: scroll;
+  }

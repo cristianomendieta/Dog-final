@@ -1,0 +1,75 @@
+.registerDog{ 
+    width: 36%;
+    height: 100vh;
+    max-height: 1100px;
+  
+    float: left;
+  
+    background-color: #545871;
+  }
+  
+  .dogIcon2 {
+    width: 64px;
+    height: 64px;
+  
+    border-radius: 50%;
+    margin-top: 103.5px;
+    margin-left: 138px;
+    align-items: center;
+  
+    background-color: #EBD0CE;
+  }
+  
+  
+  .pawIcon {
+    width: 45px;
+    height: 44px;
+  
+    margin-left: 10.5px;
+    padding-top: 12.5px;
+  
+    transform: matrix(0.87, -0.5, 0.5, 0.87, 0, 0);
+    font-size: 33px;
+    color: #545871;
+  }
+
+  .pointer {
+    margin-top: 81px;
+    margin-left: 153px;
+
+    display: flex;
+
+
+    
+
+  }
+
+  .selectedCircle{
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: #9597A6;
+  }
+
+  .circle {
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-left: 8px;
+    
+    line-height: 41px;
+
+  }
+
+  .pointer strong{
+    text-align: left;
+    width: 272px;
+    height: 23px;
+
+    margin-left: 24px;
+    margin-top: 8px;
+
+    color: #FFFFFF;
+    font-size: 24px;
+
+  }
+

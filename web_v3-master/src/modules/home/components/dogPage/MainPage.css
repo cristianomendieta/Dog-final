@@ -1,0 +1,69 @@
+.allInfo{
+    float: right;
+    height: 100%;
+    width: 100%;
+}
+
+.extraInfoDiv{
+    height: 145px;
+    margin-left: 64px;
+    display: flex;
+}
+
+.infoSpan{
+    margin-left: 20px;
+}
+
+.roundedIcon{
+    color: #EBD0CE;
+    align-items: center;
+    padding-top: 14.5px;
+    font-size: 30px;
+}
+
+.edit{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    height:170px;
+}
+
+.title{
+    color: #888888;
+    margin-left: 62px;
+    margin-top: 29px;
+    margin-bottom: 57px;
+}
+.image{
+    margin-left: 38px;
+    margin-bottom: 201px;
+}
+
+.editButton{
+    padding: 10px;
+    
+}
+
+.editButton button {
+    width: 97px;
+    height: 32px;
+    background-color: #F0F1F7;
+    border-radius: 3px;
+
+}
+
+.editButton span{
+    color: #545871;
+    
+}
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 55px;
+}
+
+.textSpan h3{
+    margin-left: 12px;
+}
