@@ -19,7 +19,7 @@
   "dependencies": {
     "apollo-server-express": "^2.5.0",
     "aws-sdk": "^2.611.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.15.2",
     "busca-cep": "^0.5.0",
     "compression": "^1.7.3",
