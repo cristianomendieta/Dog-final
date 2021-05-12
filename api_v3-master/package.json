@@ -35,7 +35,7 @@
     "moment": "^2.22.2",
     "mongodb": "^3.3.2",
     "mongoose": "^5.7.10",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.4",
     "subscriptions-transport-ws": "^0.9.16"
   }
