@@ -46,7 +46,7 @@
     "graphql-tag": "^2.10.1",
     "graphql-upload": "^9.0.0",
     "immutability-helper": "^3.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "just-debounce": "^1.0.0",
     "less": "^3.9.0",
     "mobx": "5.15.1",
